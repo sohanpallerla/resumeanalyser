@@ -38,9 +38,6 @@ npm run client
   <img src="./proxy-change.png" width=100%/>
 </div>
 
-## Demo :
-
-Click [this](https://youtu.be/JkcP06CYVpc) link to see the demo.
 
 ## License
 
