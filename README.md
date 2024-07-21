@@ -44,7 +44,7 @@ Click [this](https://youtu.be/JkcP06CYVpc) link to see the demo.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Resume-Builder/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sohanpallerla/Resume-Builder/blob/master/LICENSE) file for details.
 
 ## Credits :
 
